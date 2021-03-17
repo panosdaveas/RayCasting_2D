@@ -9,6 +9,6 @@ $ https://github.com/processing/processing4.git
 ```
 ## Screenshot
 
-![RayCasting-2D](https://user-images.githubusercontent.com/63146477/111517203-7cc62200-875d-11eb-9a2d-25adf75b42ba.mov)
+![RayCasting-2D](https://user-images.githubusercontent.com/63146477/111522031-81d9a000-8762-11eb-82f2-be4827cf8ee9.mp4)
 
 
