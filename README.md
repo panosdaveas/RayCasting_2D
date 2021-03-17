@@ -2,6 +2,4 @@
 Implementation of 2D Ray Casting
 written in Java & using Proccessing framework
 
-
-https://user-images.githubusercontent.com/63146477/111505451-4c788680-8751-11eb-81f8-71ab287e5ed1.mp4
-
+![caption](https://user-images.githubusercontent.com/63146477/111505635-8184d900-8751-11eb-933d-960c1299e74d.mp4)
