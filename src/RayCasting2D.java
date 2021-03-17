@@ -2,9 +2,7 @@ import processing.core.PApplet;
 import processing.core.PVector;
 
 import java.util.Vector;
-
 import static java.lang.Math.*;
-import static java.lang.Math.pow;
 
 public class RayCasting2D  extends PApplet {
 
