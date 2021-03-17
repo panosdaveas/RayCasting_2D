@@ -1,4 +1,4 @@
-# 2D_RayCasting
+# RayCasting_2D
 Implementation of 2D Ray Casting  
 written in Java & using Proccessing framework  
 inspired by [https://youtu.be/TOEi6T2mtHo](https://youtu.be/TOEi6T2mtHo)
